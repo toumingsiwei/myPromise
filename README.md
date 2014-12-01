@@ -1,0 +1,4 @@
+myPromise
+=========
+
+simple promise implementation
